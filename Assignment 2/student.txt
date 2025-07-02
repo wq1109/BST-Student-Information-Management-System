@@ -1,0 +1,79 @@
+Student Id= 142
+Name= Matt Smith
+Address= 34 Doctor Who Rd, UK 567890
+DOB= 25-10-1982
+Phone Number= 765-4321
+Course= CS
+CGPA= 3.73456
+
+Student Id= 139
+Name= Emily Blunt
+Address= 78 Quiet Place Ave, USA 234567
+DOB= 23-02-1983
+Phone Number= 567-8901
+Course= CS
+CGPA= 3.61245
+
+Student Id= 141
+Name= Jessica Chastain
+Address= 112 Interstellar Blvd, USA 879654
+DOB= 24-03-1977
+Phone Number= 234-4321
+Course= IB
+CGPA= 3.89234
+
+Student Id= 136
+Name= Hugh Jackman
+Address= 101 Wolverine Rd, Australia 453728
+DOB= 12-10-1968
+Phone Number= 321-6547
+Course= CS
+CGPA= 3.45689
+
+Student Id= 145
+Name= Margot Robbie
+Address= 200 Hollywood Blvd, USA 789123
+DOB= 02-07-1990
+Phone Number= 432-5432
+Course= IB
+CGPA= 3.89276
+
+Student Id= 138
+Name= Idris Elba
+Address= 45 Luther St, London, UK 563478
+DOB= 06-09-1972
+Phone Number= 432-7654
+Course= CS
+CGPA= 3.55678
+
+Student Id= 143
+Name= Tessa Thompson
+Address= 56 Valkyrie St, USA 456789
+DOB= 03-05-1983
+Phone Number= 876-1234
+Course= CS
+CGPA= 3.52467
+
+Student Id= 140
+Name= Benedict Cumberbatch
+Address= 101 Sherlock Rd, London, UK 321098
+DOB= 19-07-1976
+Phone Number= 234-5678
+Course= IB
+CGPA= 3.82356
+
+Student Id= 135
+Name= Natalie Dormer
+Address= 234 Game of Thrones St, UK 987654
+DOB= 11-02-1982
+Phone Number= 876-5432
+Course= IB
+CGPA= 3.65842
+
+Student Id= 144
+Name= Chris Hemsworth
+Address= 123 Thunder Rd, Australia 908765
+DOB= 11-08-1983
+Phone Number= 345-6789
+Course= CS
+CGPA= 3.98012
